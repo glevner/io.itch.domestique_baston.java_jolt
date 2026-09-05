@@ -1,0 +1,34 @@
+From 338e953b3588c4472dfb941497b754f8271b8299 Mon Sep 17 00:00:00 2001
+From: Sabri Ünal <yakushabb@gmail.com>
+Date: Thu, 11 Jun 2026 20:37:17 +0300
+Subject: [PATCH] Fix appdata paper cuts
+
+Signed-off-by: Sabri Ünal <yakushabb@gmail.com>
+---
+ io.itch.domestique_baston.java_jolt.metainfo.xml | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/io.itch.domestique_baston.java_jolt.metainfo.xml b/io.itch.domestique_baston.java_jolt.metainfo.xml
+index ba5d718..cb5a4ca 100644
+--- a/io.itch.domestique_baston.java_jolt.metainfo.xml
++++ b/io.itch.domestique_baston.java_jolt.metainfo.xml
+@@ -36,13 +36,13 @@
+   <launchable type="desktop-id">io.itch.domestique_baston.java_jolt.desktop</launchable>
+   <screenshots>
+     <screenshot type="default">
+-      <image>http://www.ferdiferdi.com/jj/02.png</image>
++      <image>https://imgproxy.flathub.org/insecure/dpr:2/f:avif/rs:fill-down/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9pby9pdGNoL2RvbWVzdGlxdWVfYmFzdG9uLmphdmFfam9sdC8wNmJlZGM2YWE3ODBhYWVjYjcyMDk4NzIyNzRhNjM1My9zY3JlZW5zaG90cy9pbWFnZS0xX29yaWcucG5n</image>
+     </screenshot>
+     <screenshot>
+-      <image>http://www.ferdiferdi.com/jj/03.png</image>
++      <image>https://imgproxy.flathub.org/insecure/dpr:2/f:avif/rs:fill-down/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9pby9pdGNoL2RvbWVzdGlxdWVfYmFzdG9uLmphdmFfam9sdC8wNmJlZGM2YWE3ODBhYWVjYjcyMDk4NzIyNzRhNjM1My9zY3JlZW5zaG90cy9pbWFnZS0yX29yaWcucG5n</image>
+     </screenshot>
+     <screenshot>
+-      <image>http://www.ferdiferdi.com/jj/04.png</image>
++      <image>https://imgproxy.flathub.org/insecure/dpr:2/f:avif/rs:fill-down/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9pby9pdGNoL2RvbWVzdGlxdWVfYmFzdG9uLmphdmFfam9sdC8wNmJlZGM2YWE3ODBhYWVjYjcyMDk4NzIyNzRhNjM1My9zY3JlZW5zaG90cy9pbWFnZS0zX29yaWcucG5n</image>
+     </screenshot>
+   </screenshots>
+ </component>
+--
+libgit2 1.7.2
+
